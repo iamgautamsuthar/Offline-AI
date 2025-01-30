@@ -1,7 +1,7 @@
 {
-    "name": "vs-code-ai",
-    "displayName": "VS CODE AI",
-    "description": "",
+    "name": "offline-ai",
+    "displayName": "OFFLINE AI",
+    "description": "An offline AI assistant for Visual Studio Code. Chat with AI directly in the editor without an internet connection.",
     "publisher": "iamgautamsuthar",
     "version": "0.0.1",
     "engines": {
@@ -24,6 +24,11 @@
         "lint": "eslint .",
         "pretest": "pnpm run lint",
         "test": "vscode-test"
+    },
+    "author": "Gautam Suthar <iamgautamsuthar@gmail.com> (http://github.com/@iamgautamsuthar)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iamgautamsuthar/Offline-AI.git"
     },
     "devDependencies": {
         "@types/mocha": "^10.0.10",

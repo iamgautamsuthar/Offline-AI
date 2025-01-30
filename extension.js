@@ -163,7 +163,7 @@ function getWebviewContent() {
     </head>
 
     <body>
-        <h2>🤖 VS CODE AI Chat</h2>
+        <h2>🤖 OFFLINE AI Chat</h2>
         <textarea id="prompt" placeholder="Type your question here..."></textarea>
         <br>
         <button id="askBtn">Ask AI</button>
