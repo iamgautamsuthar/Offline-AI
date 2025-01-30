@@ -4,6 +4,7 @@
     "description": "An offline AI assistant for Visual Studio Code. Chat with AI directly in the editor without an internet connection.",
     "publisher": "iamgautamsuthar",
     "version": "0.0.1",
+    "icon": "assets/logo.png",
     "engines": {
         "vscode": "^1.96.0"
     },
